@@ -8,7 +8,7 @@
 
 ## Basics
 
-This repository contains samples and tutorials that run using the [dotnet try](https://github.com/dotnet/try) global tool.
+This repository is a fork from [dotnet/try-samples](https://github.com/dotnet/try-samples) that has samples and tutorials that run using the [dotnet try](https://github.com/dotnet/try) global tool.  This version will support VS2022 with .NET 6.0 installed alongside of 3.0 which is required for this tutorial.
 
 You can explore these tutorials in your environment using the `dotnet try` global tool:
 
