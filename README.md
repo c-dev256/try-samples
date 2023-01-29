@@ -8,11 +8,11 @@
 
 ## Basics
 
-This repository is a fork from [dotnet/try-samples](https://github.com/dotnet/try-samples) that has samples and tutorials that run using the [dotnet try](https://github.com/dotnet/try) global tool.  This version will support VS2022 with .NET 6.0 installed alongside of 3.0 which is required for this tutorial.
+This repository is a fork from [dotnet/try-samples](https://github.com/dotnet/try-samples) that has samples and tutorials that run using the [dotnet try](https://github.com/dotnet/try) global tool.  This version will support VS2022 with .NET 6.0+ installed alongside of 3.1 which is required for this tutorial.
 
 You can explore these tutorials in your environment using the `dotnet try` global tool:
 
-*Prerequisite: Install .NET Core SDK [3.0](https://dotnet.microsoft.com/download/dotnet-core/3.0)*
+*Prerequisite: Install .NET Core SDK 3.1.426 SDK located [here](https://versionsof.net/core/3.1/3.1.32/)*
 
 1. Install the [dotnet-try](https://github.com/dotnet/try/blob/master/README.md#setup) global tool.
     -  to install: `dotnet tool install -g Microsoft.dotnet-try`
