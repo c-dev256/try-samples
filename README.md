@@ -15,9 +15,9 @@ You can explore these tutorials in your environment using the `dotnet try` globa
 *Prerequisite: Install .NET Core SDK 3.1.426 SDK located [here](https://versionsof.net/core/3.1/3.1.32/)*
 
 1. Install the [dotnet-try](https://github.com/dotnet/try/blob/master/README.md#setup) global tool.
-    -  to install: `dotnet tool install -g Microsoft.dotnet-try`
-    -  to uninstall: `dotnet tool uninstall -g Microsoft.dotnet-try`
-    -  to update: `dotnet tool update -g Microsoft.dotnet-try`
+    -  to install: `dotnet tool install "Microsoft.dotnet-try"`
+    -  to uninstall: `dotnet tool uninstall "Microsoft.dotnet-try"`
+    -  to update: `dotnet tool update "Microsoft.dotnet-try"`
 2. Clone this repository.
 3. Set the current directory to one of the sample tutorials (or use the current folder to see all samples).
 4. Run `dotnet try`.
